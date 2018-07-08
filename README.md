@@ -1,8 +1,18 @@
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
+
 Things to grill in the summer
 
 I'm a vegan and wanted to create an app that allows users to give me some ideas on what to grill. Since people can be trolls I elected to require users to have an account before they could post. The results would be displayed on the screen and also in my database that's connected to the project.
 
-Link to Project:
+![pic](pic.jpg)
 
 How it's made:
 Tech used: HTML, CSS, Javascript, Node, Express, Mongo, Embedded Javascript, Passport
@@ -16,27 +26,3 @@ Lessons Learned: This project enabled me to use my database to delete things whi
 
 Examples:
 Take a look at these couple examples that I have in my own portfolio:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8000`
